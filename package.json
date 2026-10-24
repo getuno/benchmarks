@@ -210,6 +210,7 @@
     "@computesdk/tenki": "^0.1.19",
     "@computesdk/tensorlake": "^0.1.28",
     "@computesdk/tilion": "^0.1.15",
+    "@computesdk/uno": "^0.1.1",
     "@computesdk/upstash": "^0.3.25",
     "@computesdk/vercel": "^1.7.51",
     "@daytonaio/sdk": "^0.224.1",
